@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front-End Developer From Morocco</h3>
 <p align="left"> <img src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" alt="mrwarios" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrwarios" target="blank"><img src="https://img.shields.io/twitter/follow/mrwarios?logo=twitter&style=for-the-badge" alt="mrwarios" /></a> </p>
+<img border-radius="10%" src="https://img.shields.io/twitter/follow/mrwarios?logo=twitter&style=for-the-badge" alt="mrwarios" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
